@@ -1,0 +1,844 @@
+[
+    {
+        "name": "Archery",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Bow",
+            "Crossbow",
+            "Non-Standard Ammunition",
+            "Slingshot"
+        ]
+    },
+    {
+        "name": "Automatics",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Assault Rifles",
+            "Cyber-Implant",
+            "Machine Pistols",
+            "Submachine Guns"
+        ]
+    },
+    {
+        "name": "Blades",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Axes",
+            "Knives",
+            "Swords",
+            "Parrying"
+        ]
+    },
+    {
+        "name": "Clubs",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Batons",
+            "Hammers",
+            "Saps",
+            "Staves",
+            "Parrying"
+        ]
+    },
+    {
+        "name": "Heavy Weapons",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Assault Cannons",
+            "Grenade Launchers",
+            "Guided Missiles",
+            "Machine Guns",
+            "Rocket Launchers"
+        ]
+    },
+    {
+        "name": "Longarms",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Extended-Range Shots",
+            "Long-Range Shots",
+            "Shotguns",
+            "Sniper",
+            "Rifles"
+        ]
+    },
+    {
+        "name": "Pistols",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Holdouts",
+            "Revolvers",
+            "Semi-Automatics",
+            "Tasers"
+        ]
+    },
+    {
+        "name": "Throwing Weapons",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Aerodynamic",
+            "Blades",
+            "Non-aerodynamic"
+        ]
+    },
+    {
+        "name": "Unarmed Combat",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Blocking",
+            "Cyber Implants",
+            "Subduing",
+            "Combat",
+            "Martial Art"
+        ]
+    },
+    {
+        "name": "Gunnery",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Artillery",
+            "Ballistic",
+            "Energy",
+            "Guided Missile",
+            "Rocket"
+        ]
+    },
+    {
+        "name": "Gymnastics",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Balance",
+            "Climbing",
+            "Dance",
+            "Leaping",
+            "Parkour",
+            "Rolling"
+        ]
+    },
+    {
+        "name": "Escape Artist",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Cuffs",
+            "Ropes",
+            "Zip Ties",
+            "Contortionism"
+        ]
+    },
+    {
+        "name": "Locksmith",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Comination",
+            "Keypad",
+            "Maglock",
+            "Tumbler",
+            "Voice Recognition"
+        ]
+    },
+    {
+        "name": "Palming",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Legerdemain",
+            "Pickpocket",
+            "Pilfering"
+        ]
+    },
+    {
+        "name": "Sneaking",
+        "stat": "Agility",
+        "defaultable": true,
+        "specializations": [
+            "Jungle",
+            "Urban",
+            "Desert"
+        ]
+    },
+    {
+        "name": "Diving",
+        "stat": "Body",
+        "defaultable": true,
+        "specializations": [
+            "Arctic",
+            "Cave",
+            "Commercial",
+            "Controlled Hyperventilation",
+            "Liquid Breathing Apparatus",
+            "Military",
+            "Mixed Gas",
+            "Oxygen Extraction",
+            "SCUBA",
+            "[Other Breathing Apparatus]",
+            "[Other Condition]"
+        ]
+    },
+    {
+        "name": "Free-Fall",
+        "stat": "Body",
+        "defaultable": true,
+        "specializations": [
+            "BASE Jumping",
+            "Break-Fall",
+            "Bungee",
+            "HALO",
+            "Low Altitude",
+            "Parachute",
+            "Static Line",
+            "Wingsuit",
+            "Zipline"
+        ]
+    },
+    {
+        "name": "Pilot Aerospace",
+        "stat": "Reaction",
+        "defaultable": false,
+        "specializations": [
+            "Deep Space",
+            "Launch Craft",
+            "Remote Operation",
+            "Semiballistic",
+            "Suborbital"
+        ]
+    },
+    {
+        "name": "Pilot Aircraft",
+        "stat": "Reaction",
+        "defaultable": false,
+        "specializations": [
+            "Fixed-Wing",
+            "Lighter-Than-Air",
+            "Remote Operation",
+            "Rotary Wing",
+            "Tilt Wing",
+            "Vectored Thrust"
+        ]
+    },
+    {
+        "name": "Pilot Ground Craft",
+        "stat": "Reaction",
+        "defaultable": true,
+        "specializations": [
+            "Bike",
+            "Hovercraft",
+            "Remote Operation",
+            "Tracked",
+            "Wheeled"
+        ]
+    },
+    {
+        "name": "Pilot Walker",
+        "stat": "Reaction",
+        "defaultable": false,
+        "specializations": [
+            "Biped",
+            "Multiped",
+            "Quadruped",
+            "Remote Operation"
+        ]
+    },
+    {
+        "name": "Pilot Watercraft",
+        "stat": "Reaction",
+        "defaultable": true,
+        "specializations": [
+            "Hydrofoil",
+            "Motorboat",
+            "Remote Operation",
+            "Sail",
+            "Ship",
+            "Submarine"
+        ]
+    },
+    {
+        "name": "Running",
+        "stat": "str",
+        "defaultable": true,
+        "specializations": [
+            "Desert",
+            "Distance",
+            "Sprinting",
+            "Urban",
+            "Wilderness",
+            "[Terrain]"
+        ]
+    },
+    {
+        "name": "Swimming",
+        "stat": "Strength",
+        "defaultable": true,
+        "specializations": [
+            "Dash",
+            "Long Distance"
+        ]
+    },
+    {
+        "name": "Animal Handling",
+        "stat": "Charisma",
+        "defaultable": true,
+        "specializations": [
+            "Herding",
+            "Riding",
+            "Training",
+            "[Animal Type]"
+        ]
+    },
+    {
+        "name": "Con",
+        "stat": "Charisma",
+        "defaultable": true,
+        "specializations": [
+            "Fast Talk",
+            "Seduction"
+        ]
+    },
+    {
+        "name": "Etiquette",
+        "stat": "Charisma",
+        "defaultable": true,
+        "specializations": [
+            "Corporate",
+            "High Society",
+            "Media",
+            "Mercenary",
+            "Street",
+            "Yakuza"
+        ]
+    },
+    {
+        "name": "Impersonation",
+        "stat": "Charisma",
+        "defaultable": true,
+        "specializations": [
+            "Dwarf",
+            "Elf",
+            "Human",
+            "Ork",
+            "Troll"
+        ]
+    },
+    {
+        "name": "Instruction",
+        "stat": "Charisma",
+        "defaultable": true,
+        "specializations": [
+            "[Active or Knowledge Skill Category]"
+        ]
+    },
+    {
+        "name": "Intimidation",
+        "stat": "Charisma",
+        "defaultable": true,
+        "specializations": [
+            "Interrogation",
+            "Mental",
+            "Physical",
+            "Torture"
+        ]
+    },
+    {
+        "name": "Leadership",
+        "stat": "Charisma",
+        "defaultable": true,
+        "specializations": [
+            "Command",
+            "Direct",
+            "Inspire",
+            "Rally"
+        ]
+    },
+    {
+        "name": "Negotiation",
+        "stat": "Charisma",
+        "defaultable": true,
+        "specializations": [
+            "Bargaining",
+            "Contracts",
+            "Diplomacy"
+        ]
+    },
+    {
+        "name": "Performance",
+        "stat": "Charisma",
+        "defaultable": true,
+        "specializations": [
+            "Acting",
+            "Comedy",
+            "Presentation",
+            "[Musical Instrument]"
+        ]
+    },
+    {
+        "name": "Artisan",
+        "stat": "Intuition",
+        "defaultable": false,
+        "specializations": [
+            "Carpentry",
+            "Cooking",
+            "Drawing",
+            "Sculpting",
+            "[Discipline]"
+        ]
+    },
+    {
+        "name": "Assensing",
+        "stat": "Intuition",
+        "defaultable": false,
+        "specializations": [
+            "Aura Reading",
+            "Astral Signatures",
+            "[Aura Type]"
+        ]
+    },
+    {
+        "name": "Disguise",
+        "stat": "Intuition",
+        "defaultable": true,
+        "specializations": [
+            "Camouflage",
+            "Cosmetic",
+            "Theatrical",
+            "Trideo & Video"
+        ]
+    },
+    {
+        "name": "Navigation",
+        "stat": "Intuition",
+        "defaultable": true,
+        "specializations": [
+            "Augmented Reality Markers",
+            "Celestial",
+            "Compass",
+            "Maps",
+            "GPS"
+        ]
+    },
+    {
+        "name": "Perception",
+        "stat": "Intuition",
+        "defaultable": true,
+        "specializations": [
+            "Hearing",
+            "Scent",
+            "Searching",
+            "Taste",
+            "Touch",
+            "Visual"
+        ]
+    },
+    {
+        "name": "Tracking",
+        "stat": "Intuition",
+        "defaultable": true,
+        "specializations": [
+            "Desert",
+            "Forest",
+            "Jungle",
+            "Mountain",
+            "Polar",
+            "Urban",
+            "[Terrain]"
+        ]
+    },
+    {
+        "name": "Aeronautics Mechanic",
+        "stat": "Logic",
+        "defaultable": false,
+        "specializations": [
+            "Aerospace",
+            "Fixed Wing",
+            "LTA (blimp)",
+            "Rotary Wing",
+            "Tilt Wing",
+            "Vector Thrust"
+        ]
+    },
+    {
+        "name": "Arcana",
+        "stat": "Logic",
+        "defaultable": false,
+        "specializations": [
+            "Spell Design",
+            "Focus Design",
+            "Spirit Formula"
+        ]
+    },
+    {
+        "name": "Armorer",
+        "stat": "Logic",
+        "defaultable": true,
+        "specializations": [
+            "Armor",
+            "Artillery",
+            "Explosives",
+            "Firearms",
+            "Melee Weapons",
+            "Heavy Weapons",
+            "Weapon Accessories"
+        ]
+    },
+    {
+        "name": "Automotive Mechanic",
+        "stat": "Logic",
+        "defaultable": false,
+        "specializations": [
+            "Hover",
+            "Tracked",
+            "Walker",
+            "Wheeled"
+        ]
+    },
+    {
+        "name": "Biotechnology",
+        "stat": "Logic",
+        "defaultable": false,
+        "specializations": [
+            "Bioinformatics",
+            "Bioware",
+            "Cloning",
+            "Gene Therapy",
+            "Vat Maintenance"
+        ]
+    },
+    {
+        "name": "Chemistry",
+        "stat": "Logic",
+        "defaultable": false,
+        "specializations": [
+            "Analytical",
+            "Biochemistry",
+            "Inorganic",
+            "Organic",
+            "Physical"
+        ]
+    },
+    {
+        "name": "Computer",
+        "stat": "Logic",
+        "defaultable": true,
+        "specializations": [
+            "Edit File",
+            "Matrix Perception",
+            "Matrix Search",
+            "[Action]"
+        ]
+    },
+    {
+        "name": "Cybercombat",
+        "stat": "Logic",
+        "defaultable": true,
+        "specializations": [
+            "Devices",
+            "Grids",
+            "IC",
+            "Personas",
+            "Sprites",
+            "[Target Type]"
+        ]
+    },
+    {
+        "name": "Cybertechnology",
+        "stat": "Logic",
+        "defaultable": false,
+        "specializations": [
+            "Bodyware",
+            "Cyberlimbs",
+            "Headware",
+            "Repair"
+        ]
+    },
+    {
+        "name": "Demolitions",
+        "stat": "Logic",
+        "defaultable": true,
+        "specializations": [
+            "Commercial Explosives",
+            "Defusing",
+            "Improvised Explosives",
+            "Plastic Explosives"
+        ]
+    },
+    {
+        "name": "Electronic Warfare",
+        "stat": "Logic",
+        "defaultable": false,
+        "specializations": [
+            "Communications",
+            "Encryption",
+            "Jamming",
+            "Sensor Operations"
+        ]
+    },
+    {
+        "name": "First Aid",
+        "stat": "Logic",
+        "defaultable": true,
+        "specializations": [
+            "Broken Bones",
+            "Burns",
+            "Gunshot Wounds",
+            "Resuscitation",
+            "[Type of Treatment]"
+        ]
+    },
+    {
+        "name": "Forgery",
+        "stat": "Logic",
+        "defaultable": true,
+        "specializations": [
+            "Counterfeiting",
+            "Credstick Forgery",
+            "False ID",
+            "Image Doctoring",
+            "Paper Forgery"
+        ]
+    },
+    {
+        "name": "Hacking",
+        "stat": "Logic",
+        "defaultable": true,
+        "specializations": [
+            "Devices",
+            "Files",
+            "Hosts",
+            "Personas"
+        ]
+    },
+    {
+        "name": "Hardware",
+        "stat": "Logic",
+        "defaultable": false,
+        "specializations": [
+            "Commlinks",
+            "Cyberdecks",
+            "Smartguns",
+            "[Hardware Type]"
+        ]
+    },
+    {
+        "name": "Industrial Mechanic",
+        "stat": "Logic",
+        "defaultable": false,
+        "specializations": [
+            "Electrical Power Systems",
+            "Hydraulics",
+            "HVAC",
+            "Industrial Robotics",
+            "Structural",
+            "Welding"
+        ]
+    },
+    {
+        "name": "Medicine",
+        "stat": "Logic",
+        "defaultable": false,
+        "specializations": [
+            "Cosmetic Surgery",
+            "Extended Care",
+            "Implant Surgery",
+            "Magical Health",
+            "Organ Culture",
+            "Trauma Surgery"
+        ]
+    },
+    {
+        "name": "Nautical Mechanic",
+        "stat": "Logic",
+        "defaultable": false,
+        "specializations": [
+            "Motorboat",
+            "Sailboat",
+            "Ship",
+            "Submarine"
+        ]
+    },
+    {
+        "name": "Software",
+        "stat": "Logic",
+        "defaultable": false,
+        "specializations": [
+            "Data Bombs",
+            "[Complex Form]"
+        ]
+    },
+    {
+        "name": "Astral Combat",
+        "stat": "Willpower",
+        "defaultable": false,
+        "specializations": [
+            "Magicians",
+            "Mana Barriers",
+            "Spirits",
+            "[Weapon Focus Type]",
+            "[Other Opponent Type]"
+        ]
+    },
+    {
+        "name": "Survival",
+        "stat": "Willpower",
+        "defaultable": true,
+        "specializations": [
+            "Desert",
+            "Forest",
+            "Jungle",
+            "Mountain",
+            "Polar",
+            "Urban",
+            "[Terrain]"
+        ]
+    },
+    {
+        "name": "Alchemy",
+        "stat": "Magic",
+        "defaultable": false,
+        "specializations": [
+            "Combat",
+            "Command",
+            "Contact",
+            "Detection",
+            "Health",
+            "Illusion",
+            "Manipulation",
+            "Time",
+            "[Trigger]"
+        ]
+    },
+    {
+        "name": "Artificing",
+        "stat": "Magic",
+        "defaultable": false,
+        "specializations": [
+            "Focus Analysis",
+            "[Focus Type]"
+        ]
+    },
+    {
+        "name": "Banishing",
+        "stat": "Magic",
+        "defaultable": false,
+        "specializations": [
+            "Spirits of Air",
+            "Spirits of Beasts",
+            "Spirits of Earth",
+            "Spirits of Fire",
+            "Spirits of Man",
+            "Spirits of Water",
+            "Guardian Spirit",
+            "Guidance Spirit",
+            "Plant Spirit",
+            "Task Spirit"
+        ]
+    },
+    {
+        "name": "Binding",
+        "stat": "Magic",
+        "defaultable": false,
+        "specializations": [
+            "Spirits of Air",
+            "Spirits of Beasts",
+            "Spirits of Earth",
+            "Spirits of Fire",
+            "Spirits of Man",
+            "Spirits of Water",
+            "Guardian Spirit",
+            "Guidance Spirit",
+            "Plant Spirit",
+            "Task Spirit"
+        ]
+    },
+    {
+        "name": "Counterspelling",
+        "stat": "Magic",
+        "defaultable": false,
+        "specializations": [
+            "Combat",
+            "Detection",
+            "Health",
+            "Illusion",
+            "Manipulation"
+        ]
+    },
+    {
+        "name": "Disenchanting",
+        "stat": "Magic",
+        "defaultable": false,
+        "specializations": [
+            "[Type]"
+        ]
+    },
+    {
+        "name": "Ritual Spellcasting",
+        "stat": "Magic",
+        "defaultable": false,
+        "specializations": [
+            "[Keyword]"
+        ]
+    },
+    {
+        "name": "Spellcasting",
+        "stat": "Magic",
+        "defaultable": false,
+        "specializations": [
+            "Combat",
+            "Detection",
+            "Health",
+            "Illusion",
+            "Manipulation"
+        ]
+    },
+    {
+        "name": "Summoning",
+        "stat": "Magic",
+        "defaultable": false,
+        "specializations": [
+            "Spirits of Air",
+            "Spirits of Beasts",
+            "Spirits of Earth",
+            "Spirits of Fire",
+            "Spirits of Man",
+            "Spirits of Water",
+            "Guardian Spirit",
+            "Guidance Spirit",
+            "Plant Spirit",
+            "Task Spirit"
+        ]
+    },
+    {
+        "name": "Compiling",
+        "stat": "Magic",
+        "defaultable": false,
+        "specializations": [
+            "[Sprite Type]"
+        ]
+    },
+    {
+        "name": "Decompiling",
+        "stat": "Magic",
+        "defaultable": false,
+        "specializations": [
+            "[Sprite Type]"
+        ]
+    },
+    {
+        "name": "Registering",
+        "stat": "Magic",
+        "defaultable": false,
+        "specializations": [
+            "[Sprite Type]"
+        ]
+    }
+]
