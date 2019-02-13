@@ -1,4 +1,4 @@
-# Shadowrun-2e-react-native-sheet
+# Shadowrun-5e-react-native-sheet
 React native project making a Shadowrun 5E character sheet app
 
 Started this as a side project, with the first commit you can enter character info (Name, race, careers, etc) and stats (primary and secondary).
